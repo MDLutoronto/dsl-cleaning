@@ -136,5 +136,3 @@ That's it! You've now cleaned your texts using a variety of tools.
 
 [Continue on to Analysis](https://mdl.library.utoronto.ca/technology/tutorials/digital-scholar-lab-analysis)  
 [Return to the main Gale Digital Scholar Lab tutorial](https://mdl.library.utoronto.ca/technology/tutorials/digital-humanities-tools-digital-scholar-lab)
-
-Technique: [Cleaning data](https://mdl.library.utoronto.ca/technique/cleaning-data) | Tools: [Digital Scholar Lab](https://mdl.library.utoronto.ca/tools/digital-scholar-lab-0)
